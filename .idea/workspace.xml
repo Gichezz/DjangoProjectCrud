@@ -5,14 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="212f0041-202f-49c5-853a-cc3e9438373f" name="Changes" comment="second commit">
-      <change afterPath="$PROJECT_DIR$/morningDjangoProject/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/templates/payments.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/morningDjangoProject/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/morningDjangoProject/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/morningDjangoProject/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/morningDjangoProject/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/templates/products.html" beforeDir="false" afterPath="$PROJECT_DIR$/templates/products.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -104,7 +97,8 @@
       <workItem from="1677823575274" duration="1626000" />
       <workItem from="1677825204494" duration="4208000" />
       <workItem from="1677829477552" duration="595000" />
-      <workItem from="1678080842282" duration="4948000" />
+      <workItem from="1678080842282" duration="5366000" />
+      <workItem from="1678087477103" duration="25000" />
     </task>
     <task id="LOCAL-00001" summary="second commit">
       <created>1677829983349</created>
@@ -113,7 +107,21 @@
       <option name="project" value="LOCAL" />
       <updated>1677829983349</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="second commit">
+      <created>1678087349346</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1678087349346</updated>
+    </task>
+    <task id="LOCAL-00003" summary="second commit">
+      <created>1678087404859</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1678087404860</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
